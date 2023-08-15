@@ -17,6 +17,8 @@ SEARCH MOVIE:-
 Watch Movie:-
 <br><br>
 <img src="https://github.com/ramesh-29/NetflixClone/assets/84698544/77a2fa9b-83a7-4007-a6b7-6ffd7679a169" alt="alt text" width="300" height="700">
+<img src="https://github.com/ramesh-29/NetflixClone/assets/84698544/f8717ea7-d6f8-429f-839e-2ddf48ed56ce" alt="alt text" width="300" height="700">
 <img src="https://github.com/ramesh-29/NetflixClone/assets/84698544/ac37ab41-ccce-458e-aa29-67e3e993382b" alt="alt text" width="300" height="700">
+
 
 
